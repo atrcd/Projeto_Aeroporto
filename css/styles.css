@@ -118,7 +118,7 @@ section.menu-desktop nav ul li a:hover::after{
 }
 .hero-site{
     height: 98vh;
-    background-image: url(/images/bg-inicio-site.jpg);
+    background-image: url(../images/bg-inicio-site.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
@@ -253,7 +253,7 @@ section.contato{
 }
 section.hoteis{
     height: 600px;
-    background-image: url(/images/hotel-bg.jpg);
+    background-image: url(../images/hotel-bg.jpg);
     width: 100%;
     background-position: center;
     background-size: cover;
